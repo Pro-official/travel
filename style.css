@@ -416,8 +416,9 @@ select {
 
   .subscribe {
         margin-bottom: 50px;
-        background-image: url(images/Rectangle\ 164.png);
-    
+        background-image: url(images/Rectangle\ 164.png), url(images/Group5.png), url(images/Mask\ Group.png);
+        background-repeat: no-repeat;
+        background-position: top bottom, top left, top right ;
   }
 
   .subscribe:hover {
