@@ -89,6 +89,10 @@ h3 {
   transition: 0.8s ease;
 }
 
+.navbar img {
+  cursor: pointer;
+}
+
 .navbar #signup {
   padding: 8px 12px;
   border: 2px solid black;
