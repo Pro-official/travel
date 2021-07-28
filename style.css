@@ -17,6 +17,7 @@ body {
 
 .color {
   color: #df6951;
+  font-family: 'Poppins', sans-serif;
 }
 
 .design {
@@ -37,6 +38,7 @@ a {
   font-size: 18px;
   line-height: 5px;
   font-weight: 600;
+  font-family: 'Poppins', sans-serif;
 }
 
 .regular-p {
@@ -44,6 +46,7 @@ a {
   font-size: 18px;
   line-height: 20px;
   font-weight: 600;
+  font-family: 'Poppins', sans-serif;
 }
 
 h1 {
@@ -80,6 +83,7 @@ h3 {
   font-size: 18px;
   margin-right: 50px;
   font-weight: 400;
+  font-family: 'Poppins', sans-serif;
 }
 
 .navbar a:hover {
@@ -146,6 +150,7 @@ select {
   font-size: 16px;
   line-height: 30px;
   font-weight: 500;
+  font-family: 'Poppins', sans-serif;
 }
 
 .buttons {
