@@ -285,7 +285,7 @@ select {
 }
 
 .destination-image img:hover {
-  transform: scalex(1.3);
+  transform: scalex(1.2);
   transition: 1s ease-in-out;
 }
 
@@ -615,11 +615,17 @@ footer {
     flex: 100%;
     max-width: 80%;
   }
+  .highlight {
+    display: none;
+  }
 }
 
 @media screen and (max-width: 600px) {
   .col {
     flex: 100%;
     max-width: 100%;
+  }
+  .highlight {
+    display: none;
   }
 }
